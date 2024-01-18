@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">ke_firstapp</string>
+    <string name="edit_message">Enter a message</string>
+    <string name="button_send">Send</string>
+</resources>
